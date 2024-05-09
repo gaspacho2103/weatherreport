@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WEATHERREPORT.MainPage" BarBackground="#505fad">
+
+    <ContentPage Title="Weather" BackgroundImageSource="ground.jpg" IconImageSource="suncloud.png">
+        <StackLayout>
+            <StackLayout Orientation="Horizontal" Margin="7,15,7,3">
+                <Frame BackgroundColor="#505fad" CornerRadius="12" Padding="5,5,8,15" WidthRequest="188">
+                    <Grid>
+                        <StackLayout Orientation="Horizontal">
+                            <Image Source="city.png"></Image>
+                            <Label x:Name="WeatherValue" Text="0°C" TextColor="#fff" FontSize="38" VerticalOptions="Center" Margin="0,0,0,25"></Label>
+                        </StackLayout>
+                        <StackLayout VerticalOptions="End" HorizontalOptions="Center" Margin="0,135,0,0">
+                            <Label x:Name="CityValue" Text="Moscow" TextColor="#fff" FontSize="18"></Label>
+                        </StackLayout>
+                    </Grid>
+                </Frame>
+                <Frame BackgroundColor="#505fad" CornerRadius="12" Padding="12.5,5,12.5,5">
+                    <Grid>
+                        <StackLayout VerticalOptions="Center">
+                            <Image Source="date.png" WidthRequest="75"></Image>
+                            <Label x:Name="DateValue" Text="27 March 2024" HorizontalTextAlignment="Center" Margin="0,5,0,0" TextColor="#fff" FontSize="15"></Label>
+                        </StackLayout>
+                    </Grid>
+                </Frame>
+            </StackLayout>
+            <StackLayout>
+                <Frame BackgroundColor="#505fad" CornerRadius="12" Margin="7,0,7,15">
+                    <StackLayout>
+                        <Label Text="Введите город:" TextColor="#fff" FontSize="20"></Label>
+                        <Entry x:Name="CityTextBox" Placeholder="Moscow" FontSize="20" TextColor="#fff" PlaceholderColor="LightGray" Margin="0,5,0,0"></Entry>
+                        <Button x:Name="SenderButton" Clicked="SenderButton_Clicked" BackgroundColor="#fff" FontSize="20" TextColor="#505fad" Text="Найти" TextTransform="None" Margin="0,25,0,0" CornerRadius="12"></Button>
+                    </StackLayout>
+                </Frame>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="Manifest" BackgroundImageSource="ground.jpg" IconImageSource="user.png">
+        <Frame BackgroundColor="#505fad" CornerRadius="12" Margin="20,20,20,200">
+            <StackLayout Margin="10">
+                <Label FontSize="25" TextColor="#fff" Text="Разработчик" TextTransform="Uppercase" HorizontalTextAlignment="Center"></Label>
+                <Label FontSize="20" TextColor="#fff" Text="Waldemar Tkatskiy AKA Gaspacho" HorizontalTextAlignment="Center" Margin="0,30,0,0"></Label>
+                <Label FontSize="20" TextColor="#fff" Text="maxytko108@gmail.com" HorizontalTextAlignment="Center" Margin="0,20,0,0"></Label>
+                <Label VerticalOptions="End" FontSize="17" TextColor="#fff" Text="Все права защищены ©" HorizontalTextAlignment="Center" Margin="0,170,0,0"></Label>
+            </StackLayout>
+        </Frame>
+    </ContentPage>
+
+</TabbedPage>

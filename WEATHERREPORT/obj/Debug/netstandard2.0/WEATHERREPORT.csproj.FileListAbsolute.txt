@@ -1,0 +1,15 @@
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\bin\Debug\netstandard2.0\WEATHERREPORT.deps.json
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\bin\Debug\netstandard2.0\WEATHERREPORT.dll
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\bin\Debug\netstandard2.0\ref\WEATHERREPORT.dll
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\bin\Debug\netstandard2.0\WEATHERREPORT.pdb
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.csproj.AssemblyReference.cache
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.AssemblyInfoInputs.cache
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.AssemblyInfo.cs
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.csproj.CoreCompileInputs.cache
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.dll
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\refint\WEATHERREPORT.dll
+C:\Users\Вальдемаръ\Desktop\WEATHERREPORT\WEATHERREPORT\obj\Debug\netstandard2.0\WEATHERREPORT.pdb
